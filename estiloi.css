@@ -1,0 +1,21 @@
+html{
+	background-color: #03464A;
+}
+#cabezita{
+		background-color: #950505;
+		text-align: center;
+}
+#dibujoooooooo{
+  width: 800px;
+  position: relative;
+  margin: auto;
+}
+#piecesito{
+	background-color: #950505;  
+	clear: both;  
+	margin-top: 30px;  
+	text-align: center; 
+	padding: 10px;  
+	border-top: 10px solid #C19309; 
+
+}
